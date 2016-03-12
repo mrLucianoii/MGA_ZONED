@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="80.7px"
+	 height="76.3px" viewBox="0 0 80.7 76.3" enable-background="new 0 0 80.7 76.3" xml:space="preserve">
+<g id="Background">
+</g>
+<g id="v1" display="none">
+	<g id="guides">
+	</g>
+</g>
+<g id="v2" display="none">
+</g>
+<g id="Layer_5" display="none">
+</g>
+<g id="guides_1_">
+</g>
+<g id="MGA_Movie_Time">
+</g>
+<g id="tv">
+	<g id="graphic">
+	</g>
+	<g id="Layer_10">
+	</g>
+</g>
+<g id="Layer_11">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="39.4705" y1="75.2452" x2="39.4705" y2="0.2452">
+		<stop  offset="0" style="stop-color:#FD0DFF"/>
+		<stop  offset="1" style="stop-color:#5CFBFF"/>
+	</linearGradient>
+	<circle display="none" fill="none" stroke="url(#SVGID_1_)" stroke-miterlimit="10" cx="39.5" cy="37.7" r="37"/>
+	
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="5.0131" y1="10.2143" x2="5.0131" y2="3.6191" gradientTransform="matrix(0.7071 -0.7071 0.7071 0.7071 33.3144 38.1845)">
+		<stop  offset="0" style="stop-color:#FD0DFF"/>
+		<stop  offset="1" style="stop-color:#5CFBFF"/>
+	</linearGradient>
+	
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -15.7241 41.1)" fill="none" stroke="url(#SVGID_2_)" stroke-miterlimit="10" cx="41.8" cy="39.5" rx="49.4" ry="2.8"/>
+	
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="16.5422" y1="37.7915" x2="16.5422" y2="31.1963" gradientTransform="matrix(-0.7071 -0.7071 0.7071 -0.7071 27.0563 75.3139)">
+		<stop  offset="0" style="stop-color:#FD0DFF"/>
+		<stop  offset="1" style="stop-color:#5CFBFF"/>
+	</linearGradient>
+	
+		<ellipse transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 40.1206 95.0702)" fill="none" stroke="url(#SVGID_3_)" stroke-miterlimit="10" cx="39.8" cy="39.2" rx="49.4" ry="2.8"/>
+	<g>
+		<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="40.4005" y1="67.9477" x2="40.4005" y2="50.6647">
+			<stop  offset="0" style="stop-color:#FD0DFF"/>
+			<stop  offset="1" style="stop-color:#5CFBFF"/>
+		</linearGradient>
+		<path fill="#F2F2F2" stroke="url(#SVGID_5_)" stroke-miterlimit="10" d="M56.9,58.6c-7.3,0-11.4-4.1-14.5-6.6
+			c-2.3-1.9-3.6-0.2-6.4,2.1c-3.5,2.9-7.6,4.5-12,4.5C23,57.8,22.2,57,21.4,56c-1.5-0.3-2.9-0.8-4.2-1.5c10.7,17.2,35.7,17.2,46.5,0
+			c-1.4,0.7-2.8,1.2-4.2,1.5C58.6,57,57.8,57.8,56.9,58.6z M27.7,61.4c7.5-1.6,10-6.9,12.7-7.1c2.7,0.2,5,5.5,12.6,7.1
+			C45.4,66,35.7,66.1,27.7,61.4z"/>
+		<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="40.4006" y1="27.0384" x2="40.4006" y2="1.0899">
+			<stop  offset="0" style="stop-color:#FD0DFF"/>
+			<stop  offset="1" style="stop-color:#5CFBFF"/>
+		</linearGradient>
+		<path fill="#F2F2F2" stroke="url(#SVGID_7_)" stroke-miterlimit="10" d="M61.2,26.5l2.9-0.3c-4.5-7.6-12.5-12.9-21.8-13.5V8
+			c3.2-1.6,2.1-6.5-1.5-6.5c-3.6,0-4.7,4.9-1.5,6.5v4.6c-9.6,0.4-18,5.7-22.6,13.6l2.9,0.3C29.4,11.5,51.4,11.5,61.2,26.5z"/>
+		<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="40.4005" y1="54.1616" x2="40.4005" y2="27.5981">
+			<stop  offset="0" style="stop-color:#FD0DFF"/>
+			<stop  offset="1" style="stop-color:#5CFBFF"/>
+		</linearGradient>
+		<path fill="#F2F2F2" stroke="url(#SVGID_8_)" stroke-miterlimit="10" d="M73.4,41.4h-4.1l1-5.1c-0.6,0-1.5,0-2.7,0
+			c-0.1-1.1-0.4-2.1-0.6-3.2h1.9l1.7-5l-24.2,2.2v2.8h18c0.3,1,0.5,2.1,0.7,3.2c-10.4,0-38.7,0-49.1,0c0.2-1.1,0.4-2.1,0.7-3.2h18
+			v-2.8l-24.2-2.2l1.7,5h1.9c-0.3,1-0.5,2.1-0.6,3.2c-1.2,0-2.2,0-2.7,0l1,5.1H7.4C5.9,38.2,1,39.3,1,42.9c0,3.6,4.9,4.7,6.5,1.5
+			h4.7c0.7,2.7,2.1,5.1,4.1,6.5c5.2,3.9,11.7,3.7,16.7-0.6c2.5-2.1,4.2-4,7.4-4.1c3.2,0.1,4.9,2,7.4,4.1c5,4.3,11.5,4.5,16.7,0.6
+			c2-1.5,3.4-3.8,4.1-6.5h4.7c1.6,3.2,6.5,2.1,6.5-1.5C79.8,39.3,74.9,38.2,73.4,41.4z M21.8,48.6L18.7,39h3.5l2,8.9L21.8,48.6z
+			 M27.8,43.6L26.3,39h3l0.9,4L27.8,43.6z M53,43.6l-2.4-0.7l0.9-4h3L53,43.6z M59,48.6l-2.4-0.7l2-8.9h3.5L59,48.6z"/>
+	</g>
+</g>
+</svg>

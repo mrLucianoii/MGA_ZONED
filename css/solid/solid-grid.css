@@ -1,0 +1,76 @@
+body {
+    /* #313640 */
+    background-color: #020202;
+}
+
+.grid {
+    top: 73px;
+    bottom: -400px;
+    left: -400px;
+    right: -400px;
+    padding-top: 800px;
+    position: absolute;
+    background-color: #313640;
+    background-image: -webkit-linear-gradient(#FF0092 1px, transparent 2px), -webkit-linear-gradient(0deg, #5CFBFF 1px, transparent 2px);
+    background-image: linear-gradient(#FF0092 1px, transparent 2px), linear-gradient(90deg, #5CFBFF 1px, transparent 2px);
+    background-size: 3% 3%, 3% 3%;
+    background-position: 0 0, 0 0;
+  -webkit-transform: perspective(300px) rotateX(80deg);
+          transform: perspective(300px) rotateX(80deg);
+    z-index: 10;
+
+}
+#fullpage {
+    z-index: 100;
+    overflow: visible;
+}
+#tv-frame {
+    z-index: 100000;
+    overflow: visible;
+}
+.eightys-text {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;   
+    text-align: center;
+    height: 80px;
+    margin: auto;
+    text-shadow: 0 0 12px rgba(186, 1, 255, 0.8);
+}
+
+label {
+    font-family: 'Audiowide', cursive;
+    color: #FF0092;
+    text-shadow: 0 0 12px rgba(186, 1, 255, 0.8);
+}
+
+.grid {
+  -webkit-animation: throughSpace 2s linear;
+          animation: throughSpace 2s linear;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes throughSpace {
+  0% {
+    -webkit-transform: perspective(300px) rotateX(80deg) translateY(0%);
+            transform: perspective(300px) rotateX(80deg) translateY(0%);
+  }
+  100% {
+    -webkit-transform: perspective(300px) rotateX(80deg) translateY(5.8%);
+            transform: perspective(300px) rotateX(80deg) translateY(5.8%);
+  }
+}
+
+@keyframes throughSpace {
+  0% {
+    -webkit-transform: perspective(300px) rotateX(80deg) translateY(0%);
+            transform: perspective(300px) rotateX(80deg) translateY(0%);
+  }
+  100% {
+    -webkit-transform: perspective(300px) rotateX(80deg) translateY(5.8%);
+            transform: perspective(300px) rotateX(80deg) translateY(5.8%);
+  }
+}
